@@ -12,3 +12,5 @@ Minimum Window Substring: https://leetcode.com/problems/minimum-window-substring
 Subsets: https://leetcode.com/problems/subsets/
 
 Word Search: https://leetcode.com/problems/word-search/
+
+Largest Rectangle in Histogram: https://leetcode.com/problems/largest-rectangle-in-histogram/ (reference: https://leetcode.com/problems/largest-rectangle-in-histogram/discuss/28917/AC-Python-clean-solution-using-stack-76ms)
