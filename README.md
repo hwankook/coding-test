@@ -16,3 +16,5 @@ Word Search: https://leetcode.com/problems/word-search/
 Largest Rectangle in Histogram: https://leetcode.com/problems/largest-rectangle-in-histogram/ (reference: https://leetcode.com/problems/largest-rectangle-in-histogram/discuss/28917/AC-Python-clean-solution-using-stack-76ms)
 
 Merge Sorted Array: https://leetcode.com/problems/merge-sorted-array/
+
+Decode Ways: https://leetcode.com/problems/decode-ways/ (reference: https://leetcode.com/problems/decode-ways/discuss/253018/Python%3A-Easy-to-understand-explanation-bottom-up-dynamic-programming)
