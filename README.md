@@ -20,3 +20,5 @@ Merge Sorted Array: https://leetcode.com/problems/merge-sorted-array/
 Decode Ways: https://leetcode.com/problems/decode-ways/ (reference: https://leetcode.com/problems/decode-ways/discuss/253018/Python%3A-Easy-to-understand-explanation-bottom-up-dynamic-programming)
 
 TapeEquilibrium: https://app.codility.com/programmers/lessons/3-time_complexity/tape_equilibrium/
+
+PermMissingElem: https://app.codility.com/programmers/lessons/3-time_complexity/perm_missing_elem/
