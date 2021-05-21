@@ -22,3 +22,5 @@ Decode Ways: https://leetcode.com/problems/decode-ways/ (reference: https://leet
 TapeEquilibrium: https://app.codility.com/programmers/lessons/3-time_complexity/tape_equilibrium/
 
 PermMissingElem: https://app.codility.com/programmers/lessons/3-time_complexity/perm_missing_elem/
+
+FrogJmp: https://app.codility.com/programmers/lessons/3-time_complexity/frog_jmp/
