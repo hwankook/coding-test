@@ -26,3 +26,5 @@ PermMissingElem: https://app.codility.com/programmers/lessons/3-time_complexity/
 FrogJmp: https://app.codility.com/programmers/lessons/3-time_complexity/frog_jmp/
 
 Binary Tree Inorder Traversal: https://leetcode.com/problems/binary-tree-inorder-traversal/
+
+Validate Binary Search Tree:  https://leetcode.com/problems/validate-binary-search-tree/
