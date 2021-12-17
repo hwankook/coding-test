@@ -30,3 +30,5 @@ Binary Tree Inorder Traversal: https://leetcode.com/problems/binary-tree-inorder
 Validate Binary Search Tree:  https://leetcode.com/problems/validate-binary-search-tree/
 
 Symmetric Tree: https://leetcode.com/problems/symmetric-tree/
+
+Best Time to Buy and Sell Stock: https://leetcode.com/problems/best-time-to-buy-and-sell-stock/
