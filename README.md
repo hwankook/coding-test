@@ -38,3 +38,6 @@ Best Time to Buy and Sell Stock II: https://leetcode.com/problems/best-time-to-b
 House Robber: https://leetcode.com/problems/house-robber/
 
 Trapping Rain Water: https://leetcode.com/problems/trapping-rain-water/
+
+# sql-test
+262. Trips and Users: https://leetcode.com/problems/trips-and-users/
