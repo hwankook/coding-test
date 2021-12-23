@@ -12,3 +12,9 @@ select b.id,
  where b.id = a.id
  order by b.id
 ;
+
+select row_number() over w as id,
+       student
+  from Seat
+window w as (order by if(mod(id, 2) = 1, id + 1, id - 1))
+;

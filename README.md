@@ -41,4 +41,4 @@ Trapping Rain Water: https://leetcode.com/problems/trapping-rain-water/
 
 # sql-test
 262. Trips and Users: https://leetcode.com/problems/trips-and-users/
-626. Exchange Seats: https://leetcode.com/problems/exchange-seats/
+626. Exchange Seats: https://leetcode.com/problems/exchange-seats/ (reference: https://dev.mysql.com/doc/refman/8.0/en/window-function-descriptions.html#function_row-number)
