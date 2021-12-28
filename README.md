@@ -29,6 +29,8 @@
 
 `122.` Best Time to Buy and Sell Stock II: https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/
 
+`169.` Majority Element: https://leetcode.com/problems/majority-element/ (reference: https://en.wikipedia.org/wiki/Boyer%E2%80%93Moore_majority_vote_algorithm)
+
 `198.` House Robber: https://leetcode.com/problems/house-robber/
 
 `217.` Contains Duplicate: https://leetcode.com/problems/contains-duplicate/
