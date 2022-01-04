@@ -25,6 +25,8 @@
 
 `101.` Symmetric Tree: https://leetcode.com/problems/symmetric-tree/
 
+`118.` Pascal's Triangle: https://leetcode.com/problems/pascals-triangle/
+
 `121.` Best Time to Buy and Sell Stock: https://leetcode.com/problems/best-time-to-buy-and-sell-stock/
 
 `122.` Best Time to Buy and Sell Stock II: https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/
@@ -32,6 +34,8 @@
 `130.` Surrounded Regions: https://leetcode.com/problems/surrounded-regions/ (reference: https://leetcode.com/problems/surrounded-regions/discuss/691675/C%2B%2B-Beginner-Friendly-or-Boundary-DFS-or-inPlace)
 
 `169.` Majority Element: https://leetcode.com/problems/majority-element/ (reference: https://en.wikipedia.org/wiki/Boyer%E2%80%93Moore_majority_vote_algorithm)
+
+`172.` Factorial Trailing Zeroes: https://leetcode.com/problems/factorial-trailing-zeroes/
 
 `198.` House Robber: https://leetcode.com/problems/house-robber/
 
