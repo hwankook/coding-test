@@ -33,6 +33,8 @@
 
 `125.` Valid Palindrome: https://leetcode.com/problems/valid-palindrome/
 
+`128.` Longest Consecutive Sequence: https://leetcode.com/problems/longest-consecutive-sequence/ (reference: https://leetcode.com/problems/longest-consecutive-sequence/solution/)
+
 `130.` Surrounded Regions: https://leetcode.com/problems/surrounded-regions/ (reference: https://leetcode.com/problems/surrounded-regions/discuss/691675/C%2B%2B-Beginner-Friendly-or-Boundary-DFS-or-inPlace)
 
 `169.` Majority Element: https://leetcode.com/problems/majority-element/ (reference: https://en.wikipedia.org/wiki/Boyer%E2%80%93Moore_majority_vote_algorithm)
