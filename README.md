@@ -37,6 +37,8 @@
 
 `130.` Surrounded Regions: https://leetcode.com/problems/surrounded-regions/ (reference: https://leetcode.com/problems/surrounded-regions/discuss/691675/C%2B%2B-Beginner-Friendly-or-Boundary-DFS-or-inPlace)
 
+`134.` Gas Station: https://leetcode.com/problems/gas-station/ (reference: https://leetcode.com/problems/gas-station/discuss/860347/Python-simple-and-very-short-explained-solution-O(n)-O(1)-faster-than-98) 
+
 `169.` Majority Element: https://leetcode.com/problems/majority-element/ (reference: https://en.wikipedia.org/wiki/Boyer%E2%80%93Moore_majority_vote_algorithm)
 
 `172.` Factorial Trailing Zeroes: https://leetcode.com/problems/factorial-trailing-zeroes/
