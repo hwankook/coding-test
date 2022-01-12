@@ -1,6 +1,6 @@
 # coding-test
 
-### leetcode
+### LeetCode
 `42.` Trapping Rain Water: https://leetcode.com/problems/trapping-rain-water/
 
 `73.` Set Matrix Zeroes: https://leetcode.com/problems/set-matrix-zeroes/
@@ -55,7 +55,7 @@
 
 `217.` Contains Duplicate: https://leetcode.com/problems/contains-duplicate/
 
-### others
+### Others
 Skynet Revolution - Episode 1: https://www.codingame.com/ide/puzzle/skynet-revolution-episode-1 (reference: https://pastebin.com/byAjXYJa)
         
 The Gift: https://www.codingame.com/ide/puzzle/the-gift
@@ -68,7 +68,7 @@ FrogJmp: https://app.codility.com/programmers/lessons/3-time_complexity/frog_jmp
 
 # sql-test
 
-### leetcode
+### LeetCode
 `262.` Trips and Users: https://leetcode.com/problems/trips-and-users/
 
 `626.` Exchange Seats: https://leetcode.com/problems/exchange-seats/ (reference: https://dev.mysql.com/doc/refman/8.0/en/window-function-descriptions.html#function_row-number)
