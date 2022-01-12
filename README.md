@@ -41,6 +41,10 @@
 
 `136.` Single Number: https://leetcode.com/problems/single-number/ (reference: https://leetcode.com/problems/single-number/discuss/558767/Python-Space-O(1)-XOR%2BReduce-Very-Simple-One-Liner-(With-Explanation))
 
+`139.` Word Break: https://leetcode.com/problems/word-break/ (reference: https://leetcode.com/problems/word-break/discuss/1455100/Python-2-solutions-(Optimized-with-Trie)-Clean-and-Concise)
+
+`140.` Word Break II: https://leetcode.com/problems/word-break-ii/
+
 `169.` Majority Element: https://leetcode.com/problems/majority-element/ (reference: https://en.wikipedia.org/wiki/Boyer%E2%80%93Moore_majority_vote_algorithm)
 
 `172.` Factorial Trailing Zeroes: https://leetcode.com/problems/factorial-trailing-zeroes/
