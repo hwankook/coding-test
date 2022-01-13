@@ -66,6 +66,8 @@ PermMissingElem: https://app.codility.com/programmers/lessons/3-time_complexity/
         
 FrogJmp: https://app.codility.com/programmers/lessons/3-time_complexity/frog_jmp/
 
+디스크 컨트롤러: https://programmers.co.kr/learn/courses/30/lessons/42627 (reference: https://jainn.tistory.com/127)
+
 # sql-test
 
 ### LeetCode
