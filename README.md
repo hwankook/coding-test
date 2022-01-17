@@ -68,6 +68,10 @@ FrogJmp: https://app.codility.com/programmers/lessons/3-time_complexity/frog_jmp
 
 디스크 컨트롤러: https://programmers.co.kr/learn/courses/30/lessons/42627 (reference: https://jainn.tistory.com/127)
 
+Rod cutting: Introduction to Algorithms
+
+An activity-selection problem: Introduction to Algorithms
+
 # sql-test
 
 ### LeetCode
