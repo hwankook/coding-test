@@ -72,6 +72,8 @@ Rod cutting: Introduction to Algorithms
 
 An activity-selection problem: Introduction to Algorithms
 
+0-1 knapsack: Introduction to Algorithms
+
 # sql-test
 
 ### LeetCode
