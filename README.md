@@ -55,6 +55,8 @@
 
 `217.` Contains Duplicate: https://leetcode.com/problems/contains-duplicate/
 
+`279.` Perfect Squares: https://leetcode.com/problems/perfect-squares/ (reference: https://leetcode.com/problems/perfect-squares/discuss/1513258/VERY-EASY-TO-UNDERSTAND-WITH-PICTURE-PYTHON-RECURSION-%2B-MEMOIZATION)
+
 ### Others
 Skynet Revolution - Episode 1: https://www.codingame.com/ide/puzzle/skynet-revolution-episode-1 (reference: https://pastebin.com/byAjXYJa)
         
