@@ -3,6 +3,8 @@
 ### LeetCode
 `42.` Trapping Rain Water: https://leetcode.com/problems/trapping-rain-water/
 
+`64.` Minimum Path Sum: https://leetcode.com/problems/minimum-path-sum/ (reference: https://leetcode.com/problems/minimum-path-sum/discuss/23532/Python-Solution-with-Detailed-Explanation)
+
 `73.` Set Matrix Zeroes: https://leetcode.com/problems/set-matrix-zeroes/
 
 `75.` Sort Colors: https://leetcode.com/problems/sort-colors/
