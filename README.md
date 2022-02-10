@@ -59,6 +59,8 @@
 
 `279.` Perfect Squares: https://leetcode.com/problems/perfect-squares/ (reference: https://leetcode.com/problems/perfect-squares/discuss/1513258/VERY-EASY-TO-UNDERSTAND-WITH-PICTURE-PYTHON-RECURSION-%2B-MEMOIZATION)
 
+`1277.` Count Square Submatrices with All Ones: https://leetcode.com/problems/count-square-submatrices-with-all-ones/ (reference: https://leetcode.com/problems/count-square-submatrices-with-all-ones/discuss/643429/Python-DP-Solution-%2B-Thinking-Process-Diagrams-(O(mn)-runtime-O(1)-space))
+
 ### Others
 Skynet Revolution - Episode 1: https://www.codingame.com/ide/puzzle/skynet-revolution-episode-1 (reference: https://pastebin.com/byAjXYJa)
         
