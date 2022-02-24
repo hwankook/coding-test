@@ -11,6 +11,8 @@
 
 `64.` Minimum Path Sum: https://leetcode.com/problems/minimum-path-sum/ (reference: https://leetcode.com/problems/minimum-path-sum/discuss/23532/Python-Solution-with-Detailed-Explanation)
 
+`72.` Edit Distance: https://leetcode.com/problems/edit-distance/ (reference: https://leetcode.com/problems/edit-distance/discuss/1793569/dynamic-programing)
+
 `73.` Set Matrix Zeroes: https://leetcode.com/problems/set-matrix-zeroes/
 
 `75.` Sort Colors: https://leetcode.com/problems/sort-colors/
