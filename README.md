@@ -25,6 +25,8 @@
 
 `84.` Largest Rectangle in Histogram: https://leetcode.com/problems/largest-rectangle-in-histogram/ (reference: https://leetcode.com/problems/largest-rectangle-in-histogram/discuss/28917/AC-Python-clean-solution-using-stack-76ms)
 
+`85.` Maximal Rectangle: https://leetcode.com/problems/maximal-rectangle/ (reference: https://leetcode.com/problems/maximal-rectangle/discuss/1667277/python-histogram-method-601ms)
+
 `88.` Merge Sorted Array: https://leetcode.com/problems/merge-sorted-array/
 
 `91.` Decode Ways: https://leetcode.com/problems/decode-ways/ (reference: https://leetcode.com/problems/decode-ways/discuss/253018/Python%3A-Easy-to-understand-explanation-bottom-up-dynamic-programming)
