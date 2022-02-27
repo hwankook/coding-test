@@ -41,6 +41,8 @@
 
 `104.` Maximum Depth of Binary Tree: https://leetcode.com/problems/maximum-depth-of-binary-tree/
 
+`112.` Path Sum`: https://leetcode.com/problems/path-sum/ (ref. https://leetcode.com/problems/path-sum/discuss/1801999/Python3-iterative-solution-with-BFS)
+
 `118.` Pascal's Triangle: https://leetcode.com/problems/pascals-triangle/
 
 `121.` Best Time to Buy and Sell Stock: https://leetcode.com/problems/best-time-to-buy-and-sell-stock/
