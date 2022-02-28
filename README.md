@@ -41,6 +41,8 @@
 
 `102.` Binary Tree Level Order Traversal: https://leetcode.com/problems/binary-tree-level-order-traversal/
 
+`103.` Binary Tree Zigzag Level Order Traversal: https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/ (ref. https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/discuss/1805488/DFS-python)
+
 `104.` Maximum Depth of Binary Tree: https://leetcode.com/problems/maximum-depth-of-binary-tree/
 
 `112.` Path Sum`: https://leetcode.com/problems/path-sum/ (ref. https://leetcode.com/problems/path-sum/discuss/1801999/Python3-iterative-solution-with-BFS)
