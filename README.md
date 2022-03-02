@@ -104,6 +104,8 @@ An activity-selection problem: Introduction to Algorithms
 
 2022 KAKAO BLIND RECRUITMENT 양궁대회: https://programmers.co.kr/learn/courses/30/lessons/92342 (ref. https://velog.io/@sewonkim/2022-KAKAO-BLIND-RECRUITMENT-%EC%96%91%EA%B6%81%EB%8C%80%ED%9A%8C-%EB%AC%B8%EC%A0%9C%ED%92%80%EC%9D%B4)
 
+짝지어 제거하기: https://programmers.co.kr/learn/courses/30/lessons/12973
+
 # sql-test
 
 ### LeetCode
