@@ -110,6 +110,8 @@ An activity-selection problem: Introduction to Algorithms
 
 문자열 압축: https://programmers.co.kr/learn/courses/30/lessons/60057
 
+빛의 경로 사이클: https://programmers.co.kr/learn/courses/30/lessons/86052 (ref. https://bladejun.tistory.com/165)
+
 # sql-test
 
 ### LeetCode
