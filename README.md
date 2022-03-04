@@ -114,6 +114,8 @@ An activity-selection problem: Introduction to Algorithms
 
 카카오프렌즈 컬러링북: https://programmers.co.kr/learn/courses/30/lessons/1829
 
+멀쩡한 사각형: https://programmers.co.kr/learn/courses/30/lessons/62048 (ref. https://hidelookit.tistory.com/251)
+
 # sql-test
 
 ### LeetCode
