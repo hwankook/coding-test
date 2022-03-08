@@ -1,6 +1,8 @@
 # coding-test
 
 ### LeetCode
+` 1.` Two Sum: https://leetcode.com/problems/two-sum/ (ref. https://youtu.be/FHphOv2mmIA)
+
 `32.` Longest Valid Parentheses (ref. https://leetcode.com/problems/longest-valid-parentheses/solution/)
 
 `42.` Trapping Rain Water: https://leetcode.com/problems/trapping-rain-water/
