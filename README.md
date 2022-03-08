@@ -1,7 +1,9 @@
 # coding-test
 
 ### LeetCode
-` 1.` Two Sum: https://leetcode.com/problems/two-sum/ (ref. https://youtu.be/FHphOv2mmIA)
+`1.` Two Sum: https://leetcode.com/problems/two-sum/ (ref. https://youtu.be/FHphOv2mmIA)
+
+`2.` Add Two Numbers: https://leetcode.com/problems/add-two-numbers/ (ref. https://leetcode.com/problems/add-two-numbers/solution/)
 
 `32.` Longest Valid Parentheses (ref. https://leetcode.com/problems/longest-valid-parentheses/solution/)
 
