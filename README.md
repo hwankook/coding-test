@@ -112,6 +112,8 @@ An activity-selection problem: Introduction to Algorithms
 
 오픈채팅방: https://programmers.co.kr/learn/courses/30/lessons/42888
 
+완전범죄: https://school.programmers.co.kr/learn/courses/30/lessons/389480?language=python3
+
 문자열 압축: https://programmers.co.kr/learn/courses/30/lessons/60057
 
 빛의 경로 사이클: https://programmers.co.kr/learn/courses/30/lessons/86052 (ref. https://bladejun.tistory.com/165)
