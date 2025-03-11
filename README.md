@@ -116,6 +116,8 @@ An activity-selection problem: Introduction to Algorithms
 
 빛의 경로 사이클: https://programmers.co.kr/learn/courses/30/lessons/86052 (ref. https://bladejun.tistory.com/165)
 
+서버 증설 횟수: https://school.programmers.co.kr/learn/courses/30/lessons/389479
+
 카카오프렌즈 컬러링북: https://programmers.co.kr/learn/courses/30/lessons/1829
 
 멀쩡한 사각형: https://programmers.co.kr/learn/courses/30/lessons/62048 (ref. https://hidelookit.tistory.com/251)
