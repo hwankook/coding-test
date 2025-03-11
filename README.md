@@ -122,6 +122,8 @@ An activity-selection problem: Introduction to Algorithms
 
 124 나라의 숫자: https://programmers.co.kr/learn/courses/30/lessons/12899# (ref. https://velog.io/@dramatic/Algorithm-124-%EB%82%98%EB%9D%BC%EC%9D%98-%EC%88%AB%EC%9E%90)
 
+택배 상자 꺼내기: https://school.programmers.co.kr/learn/courses/30/lessons/389478
+
 # sql-test
 
 ### LeetCode
