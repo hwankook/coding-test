@@ -104,6 +104,8 @@
 
   - FrogJmp: https://app.codility.com/programmers/lessons/3-time_complexity/frog_jmp/
 
+  - 가장 큰 삼각형 덩어리: https://school.programmers.co.kr/learn/courses/30/lessons/389629
+
   - 디스크 컨트롤러: https://programmers.co.kr/learn/courses/30/lessons/42627 (ref. https://jainn.tistory.com/127)
 
   - Rod cutting: Introduction to Algorithms
